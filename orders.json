@@ -1,0 +1,266 @@
+{
+    "001": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced Americano",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Ham & Cheese Croissant",
+            "type": "food"
+        }],
+        "timestamp": "8:13 AM 31 April 2023"
+    },
+    "002": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced White Mocha",
+            "special": "No Whipped Cream",
+            "type": "drink"
+        }],
+        "timestamp": "8:15 AM 31 April 2023"
+    },
+    "003": {
+        "order": [{
+            "quantity": 1,
+            "title": "Plain Bagel",
+            "type": "food"
+        }],
+        "timestamp": "8:16 AM 31 April 2023"
+    },
+    "004": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Iced Vanilla Latte",
+            "special": "Soy Milk",
+            "type": "drink"
+        }],
+        "timestamp": "8:18 AM 31 April 2023"
+    },
+    "005": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "White Mocha",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Breakfast Burrito",
+            "type": "food"
+        }],
+        "timestamp": "8:18 AM 31 April 2023"
+    },
+    "006": {
+        "order": [{
+            "quantity": 1,
+            "size": "L",
+            "title": "Iced Americano",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Panini",
+            "type": "food"
+        }],
+        "timestamp": "8:18 AM 31 April 2023"
+    },
+    "007": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced Vanilla Latte",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Chocolate Chip Cookie",
+            "type": "food"
+        }],
+        "timestamp": "8:19 AM 31 April 2023"
+    },
+    "008": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Iced Americano",
+            "type": "drink"
+        }],
+        "timestamp": "8:19 AM 31 April 2023"
+    },
+    "009": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Iced Vanilla Latte",
+            "type": "drink"
+        }],
+        "timestamp": "8:19 AM 31 April 2023"
+    },
+    "010": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced Vanilla Latte",
+            "special": "Sugar-Free",
+            "type": "drink"
+        }],
+        "timestamp": "8:21 AM 31 April 2023"
+    },
+    "011": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Iced Caramel Macchiato",
+            "type": "drink"
+        }],
+        "timestamp": "8:24 AM 31 April 2023"
+    },
+    "012": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced Vanilla Latte",
+            "type": "drink"
+        }],
+        "timestamp": "8:24 AM 31 April 2023"
+    },
+    "013": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Hot Chocolate",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Chocolate Chip Cookie",
+            "type": "food"
+        }],
+        "timestamp": "8:42 AM 31 April 2023"
+    },
+    "014": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Iced Chai Latte",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Chocolate Chip Cookie",
+            "type": "food"
+        }],
+        "timestamp": "8:44 AM 31 April 2023"
+    },
+    "015": {
+        "order": [{
+            "quantity": 1,
+            "size": "L",
+            "title": "Vanilla Latte",
+            "type": "drink"
+        },
+        {
+            "quantity": 1,
+            "title": "Breakfast Burrito",
+            "type": "food"
+        }],
+        "timestamp": "8:46 AM 31 April 2023"
+    },
+    "016": {
+        "order": [
+        {
+            "quantity": 1,
+            "title": "Blueberry Muffin",
+            "type": "food"
+        }],
+        "timestamp": "8:47 AM 31 April 2023"
+    },
+    "017": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Iced Americano",
+            "special": "No Ice",
+            "type": "drink"
+        }],
+        "timestamp": "8:49 AM 31 April 2023"
+    },
+    "018": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "Vanilla Latte",
+            "type": "drink"
+        }],
+        "timestamp": "8:51 AM 31 April 2023"
+    },
+    "019": {
+        "order": [{
+            "quantity": 1,
+            "size": "L",
+            "title": "Iced Americano",
+            "type": "drink"
+        }],
+        "timestamp": "8:53 AM 31 April 2023"
+    },
+    "020": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Mocha",
+            "type": "drink"
+        }],
+        "timestamp": "8:55 AM 31 April 2023"
+    },
+    "021": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Cappuccino",
+            "type": "drink"
+        }],
+        "timestamp": "8:56 AM 31 April 2023"
+    },
+    "022": {
+        "order": [
+        {
+            "quantity": 1,
+            "title": "Plain Bagel",
+            "type": "food"
+        }],
+        "timestamp": "8:58 AM 31 April 2023"
+    },
+    "023": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Vanilla Latte",
+            "type": "drink"
+        }],
+        "timestamp": "9:01 AM 31 April 2023"
+    },
+    "024": {
+        "order": [{
+            "quantity": 1,
+            "size": "S",
+            "title": "Vanilla Latte",
+            "type": "drink"
+        }],
+        "timestamp": "9:02 AM 31 April 2023"
+    },
+    "025": {
+        "order": [{
+            "quantity": 1,
+            "size": "M",
+            "title": "White Mocha",
+            "special": "No Whipped Cream",
+            "type": "drink"
+        }],
+        "timestamp": "9:03 AM 31 April 2023"
+    }
+}
